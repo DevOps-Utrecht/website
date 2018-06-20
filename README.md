@@ -6,7 +6,7 @@ The DevOps website is build with [Gatsby](https://www.gatsbyjs.org/ "Gatsbyjs Ho
 
 - Clone the github repository:
 
-Run `git clone git@github.com:DevOps/website.git` or dowload the project manually.
+Run `git clone git@github.com:DevOps/website.git` or download the project manually.
 
 - Change into download directory:
 
